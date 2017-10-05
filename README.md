@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis using Decision tree classifier
+Sentiment Analysis of Tweets on Apple and its products using TextBlob
